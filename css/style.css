@@ -157,6 +157,20 @@ i{
     }
 }
 
+#orginize{
+    width: 100%;
+    margin-top:2rem ;
+    /* background: blue;
+    color: white;
+    border-top-left-radius: 45%;
+    border-top-right-radius: 100%;
+    border-bottom-left-radius: 60%;
+    border-bottom-right-radius: 10%;
+   border-width: 15%; */
+}
+
+
+
 
 #SE{
     font-style: italic;
@@ -241,14 +255,13 @@ i{
     
 }
 .info{
-    font-weight: 550;
-    font-style: italic;
-    text-align: justify;
-    color: red;
-
+        font-weight: 550;
+        font-style: italic;
+        text-align: left;
+        color: #dc4c64;
+        line-height: 1.7rem;
+        text-indent: 50px;
 }
-
-
 
 
 .my-6 {
